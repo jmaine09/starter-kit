@@ -1,7 +1,6 @@
 # Kik Starter Kit [![Kite](https://usekite.com/live-demo-button.png)](https://usekite.com/deploy)
 
-Starter Kit contains the necessary foundations to get you started on building Kik apps. 
-
+Welcome to Jay Marley App
 <img align="left" style="float:left;" src="sample.png">
 
 
